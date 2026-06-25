@@ -446,7 +446,8 @@ Then reference them in GitHub like:
 ```markdown
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture]
+![image alt](https://github.com/Zia2691r/Splunk-Cloud-SIEM-Integration-Automated-Active-Defense-Engineering-/blob/d05115f3001acb312614619376272ff2f82dc36f/config/screenshots/screenshotsarchitecture.png)
 
 ## Hydra Attack
 
