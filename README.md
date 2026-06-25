@@ -441,25 +441,16 @@ project-folder/
     └── unban_process.png
 ```
 
-Then reference them in GitHub like:
-
-```markdown
 ## Architecture
-
-![Architecture]
-<img width="870" height="1061" alt="Image" src="https://github.com/user-attachments/assets/c3bc745d-9191-48fc-83e7-8ea2a03b07e0" />
+![Architecture Platform](https://github.com/user-attachments/assets/c3bc745d-9191-48fc-83e7-8ea2a03b07e0)
 
 ## Hydra Attack
+<img width="1920" height="922" alt="screenshotshydra_attack" src="https://github.com/user-attachments/assets/134239b4-03cc-4e1e-a7e7-8a6b6237493a" />
 
-![Hydra Attack](screenshots/hydra_attack.png)
 
 ## Splunk Visualization
+<img width="1917" height="967" alt="screenshotsvisualization" src="https://github.com/user-attachments/assets/0174828d-2849-433f-8c32-20dc3d20f140" />
 
-![Visualization](screenshots/visualization.png)
 
 ## Fail2ban Configuration
-
-![Fail2ban Configuration](screenshots/fail2ban_config.png)
-```
-
----
+<img width="1920" height="922" alt="screenshotsfail2ban_config png" src="https://github.com/user-attachments/assets/70d24819-baef-4b0b-be18-241a4a571d7b" />
